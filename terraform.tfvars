@@ -1,6 +1,6 @@
 # BIG-IP Environment
 uname     = "azureuser"
-upassword = "f5DEMOs4u#"
+upassword = ""
 
 # Azure Environment
 sp_subscription_id = ""
